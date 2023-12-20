@@ -74,5 +74,5 @@ git push -u origin main
 composer install
 
 # copiare env.explample e rinominare la copia come .env, dentro do il comando
-php artisan key:generate
+
 ```
